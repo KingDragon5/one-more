@@ -1,0 +1,24 @@
+{
+  "name": "pag.-dinamica",
+  "version": "1.0.0",
+  "description": "sitio web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingDragon5/one-more.git"
+  },
+  "author": "Ivan Gerardo Ortega Tapia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KingDragon5/one-more/issues"
+  },
+  "homepage": "https://github.com/KingDragon5/one-more#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "mongoose": "^5.9.17"
+  }
+}
