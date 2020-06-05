@@ -35,6 +35,9 @@ app.get('/pascurodri', (req, res)=>{
     res.render('pascurodri');
 });
 
+app.get('/mirealidad', (req, res)=>{
+    res.render('mirealidad');
+});
 
 app.listen(3000, ()=>{
     console.log('escuchando el puerto 3000')
